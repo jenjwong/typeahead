@@ -56,9 +56,6 @@ class App extends PureComponent {
     this.setState({ formulaString: modifiedFormulaString + typeAheadVal });
   }
 
-
-
-
   render() {
     return (
       <div className="App">
