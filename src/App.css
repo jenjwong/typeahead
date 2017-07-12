@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  font-size: 3vh;
+  font-family: 'Arvo', serif;
+}
+
+.typeahead-container {
+  margin-top: 3vh;
+}

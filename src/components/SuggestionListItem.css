@@ -1,0 +1,22 @@
+.name {
+  font-weight: bold;
+  color: blue;
+  cursor: pointer;
+}
+
+.description {
+  font-style: italic;
+  opacity: 0.9;
+}
+
+.suggestion-list > div {
+  margin-top: 0.5vh;
+}
+
+.suggestion-list {
+  margin-bottom: 1.5vh;
+}
+
+.description-title {
+  opacity: 0.5;
+}
