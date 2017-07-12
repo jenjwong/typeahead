@@ -1,4 +1,5 @@
 # Typeahead
+[Typeahead is deployed on Digital Ocean](http://typeahead.jenjwong.tech/)
 
 ### Technologies
 
