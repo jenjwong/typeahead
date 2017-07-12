@@ -10,7 +10,7 @@
 
 ---
 ## Typeahead Dash:
-![Typeahead](https://github.com/jenjwong/expenseTrackr/blob/development/client/public/typeahead.png)
+![Typeahead](https://github.com/jenjwong/typeahead/blob/master/public/typeahead.png)
 ---
 
 ## Getting Started
