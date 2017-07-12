@@ -26,7 +26,7 @@ npm run start
 ```
 
 ### Client-Side Technologies
-[Facebook's Create React App](https://github.com/facebookincubator/create-react-app) to streamline development
+This application uses[Facebook's Create React App](https://github.com/facebookincubator/create-react-app) to streamline development
 
 ### Features
 - Provides contextual help explaining supported functions and comparators
@@ -39,7 +39,7 @@ npm run start
 
 ## Tests
 
-Typeahead unit tests utility functions with Jest.
+This application unit tests utility functions with Jest.
 
 To execute tests, in the client directory run:
 ```
