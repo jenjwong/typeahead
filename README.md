@@ -26,7 +26,7 @@ npm run start
 ```
 
 ### Client-Side Technologies
-To streamline development the project uses [Facebook's Create React App](https://github.com/facebookincubator/create-react-app)
+[Facebook's Create React App](https://github.com/facebookincubator/create-react-app) to streamline development
 
 ### Features
 - Provides contextual help explaining supported functions and comparators
