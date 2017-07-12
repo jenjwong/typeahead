@@ -27,12 +27,12 @@ npm run start
 ```
 
 ### Client-Side Technologies
-This application uses[Facebook's Create React App](https://github.com/facebookincubator/create-react-app) to streamline development
+This application uses [Facebook's Create React App](https://github.com/facebookincubator/create-react-app) to streamline development
 
 ### Features
 - Provides contextual help explaining supported functions and comparators
-- If user enters invalid invalid input typeahead displays a help message with a link to mock-documentation
-- Uses a reusable regular expressions helper function to precisely match the start of words
+- If user enters invalid input typeahead displays a help message with a link to mock-documentation
+- Implements a reusable regular expressions helper function to precisely match the start of words
 - Input field always stays in focus so users don't have to click to continue typing
 - Auto-completes today's date if user starts function with @created_at
 - Allows users to toggle between choices after initial selection
