@@ -29,13 +29,13 @@ npm run start
 To streamline development the project uses [Facebook's Create React App](https://github.com/facebookincubator/create-react-app)
 
 ### Features
-- provides contextual help explaning supported functions and comparators
-- if user enters invalid invalid input typeahead displays a help message with a link to mock-documentation
-- uses a reusable regular expressions helper function to precisely match the start of words
-- input field always stays in focus so users don't have to click to continue typing
-- auto-completes today's date if user starts function with @created_at
-- allows users to toggle between choices after initial selection
-- links are highlighted and a pointer is used to enhance discorability
+- Provides contextual help explaining supported functions and comparators
+- If user enters invalid invalid input typeahead displays a help message with a link to mock-documentation
+- Uses a reusable regular expressions helper function to precisely match the start of words
+- Input field always stays in focus so users don't have to click to continue typing
+- Auto-completes today's date if user starts function with @created_at
+- Allows users to toggle between choices after initial selection
+- Links are highlighted and a pointer is used to enhance discoverability
 
 ## Tests
 
